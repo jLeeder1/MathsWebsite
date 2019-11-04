@@ -1,0 +1,27 @@
+﻿
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.NavMenuLink {
+    background-color: #7c6fd6;
+    color: white;
+}
+
+.NavMenuLink:hover {
+    background-color: white;
+    color: #7c6fd6;
+}
+
+.NavMenuContainer {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #36454f;
+
+}
